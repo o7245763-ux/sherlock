@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center">anon216schoolalmaty
   <br>
   <a href="https://sherlockproject.xyz/" target="_blank"><img src="images/sherlock-logo.png" alt="sherlock"/></a>
   <br>
